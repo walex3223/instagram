@@ -1,0 +1,34 @@
+#container{
+    width:700px;
+    background-color: red;
+    display:grid;
+margin-left:25%;
+margin-top:20px;
+    grid-template-columns:2fr 2fr;
+}
+#header{
+    display:flex;
+
+}
+  #uploadpics,#headerimg{
+    position:relative;
+    left:80%;
+
+
+}#uploadpics a{display:inline-block;
+    
+    height:30px;
+    font-weight:bold;
+    text-decoration:none;
+    padding:0px 0px 5px 5px;
+    text-transform:capitalize;
+    color:white;
+
+}
+#uploadpics{
+    width:100px;
+    background-color:black;
+}
+#form{
+    float:left;
+}

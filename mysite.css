@@ -1,0 +1,70 @@
+#headerbackground img{width:100px;
+    border-radius:10px;
+    margin-top:60px;
+    float:left;
+    margin-left:20px;
+    background-color: yellow;
+}
+#p{
+    padding-left:25px;
+}
+#imgborder{
+    width:330px;
+    margin:auto;
+    border-radius:5px;
+
+    height:370px;
+    box-shadow:1px 1px 3px 3px lightblue;
+    border:2px solid black;
+
+}
+ #img{
+    
+   padding-top:10px;
+    
+    margin:auto;
+    
+
+
+   
+
+    width:310px;
+    height:110px;
+
+}
+#img1 img{
+    padding-top:10px;
+    background-color:red;
+    width:100px;
+    height:100px;
+}
+
+#img img{
+
+    background-color:red;
+    width:100px;
+    height:100px;
+}
+#fol{
+    float:right;
+    padding-right:20px;
+}
+#headerbackground #head{
+    padding-top:20px;
+
+}
+#headerbackground{
+
+
+    background-color:grey;
+    width:100%;
+    height:150px;
+
+
+}
+#home{
+    float:left;
+}
+#headerbackground span{
+    margin-top:100px;
+}
